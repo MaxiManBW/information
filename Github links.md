@@ -2,7 +2,7 @@
 
 ## Books
 
-- [https://git-scm.com/book/](GitHub Book)
+- https://git-scm.com/book/
 
 ## Videos
 
